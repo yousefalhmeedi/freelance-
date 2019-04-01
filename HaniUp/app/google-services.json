@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "399564438863",
+    "firebase_url": "https://haniup-7a875.firebaseio.com",
+    "project_id": "haniup-7a875",
+    "storage_bucket": "haniup-7a875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399564438863:android:016daa8d3e93f5dd",
+        "android_client_info": {
+          "package_name": "com.example.haniup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399564438863-n5kkkr1jsgqplljj0gmaojfc48sdrkti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.haniup",
+            "certificate_hash": "b40b42848fafc73844037af1cee76d6c77b9b668"
+          }
+        },
+        {
+          "client_id": "399564438863-jvmnmcd0452jl5kgirhpaqrn75v1bbag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqyF6yogOOI9Ru-cJP-Vdq69RtObQ8MI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399564438863-jvmnmcd0452jl5kgirhpaqrn75v1bbag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
